@@ -1,0 +1,5 @@
+name: 'Action helper'
+description: 'Provide information about the workflow subject'
+runs:
+  using: 'node12'
+  main: 'dist-ncc/index.js'
